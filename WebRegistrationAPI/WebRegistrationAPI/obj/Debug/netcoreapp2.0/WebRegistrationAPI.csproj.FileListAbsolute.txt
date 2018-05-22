@@ -1,0 +1,11 @@
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\bin\Debug\netcoreapp2.0\WebRegistrationAPI.deps.json
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\bin\Debug\netcoreapp2.0\WebRegistrationAPI.runtimeconfig.json
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\bin\Debug\netcoreapp2.0\WebRegistrationAPI.runtimeconfig.dev.json
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\bin\Debug\netcoreapp2.0\WebRegistrationAPI.dll
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\bin\Debug\netcoreapp2.0\WebRegistrationAPI.pdb
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\obj\Debug\netcoreapp2.0\WebRegistrationAPI.csprojResolveAssemblyReference.cache
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\obj\Debug\netcoreapp2.0\WebRegistrationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\obj\Debug\netcoreapp2.0\WebRegistrationAPI.AssemblyInfoInputs.cache
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\obj\Debug\netcoreapp2.0\WebRegistrationAPI.AssemblyInfo.cs
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\obj\Debug\netcoreapp2.0\WebRegistrationAPI.dll
+C:\Users\Dabeer-Developer\source\Workspaces\MyLockerWebServices\WebRegistrationAPI\WebRegistrationAPI\WebRegistrationAPI\obj\Debug\netcoreapp2.0\WebRegistrationAPI.pdb
